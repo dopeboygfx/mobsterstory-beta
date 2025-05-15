@@ -14,10 +14,13 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.21.1",
     "@supabase/supabase-js": "^2.39.1",
+    "@supabase/auth-ui-react": "^0.4.6",
+    "@supabase/auth-ui-shared": "^0.1.8",
     "zod": "^3.22.4",
     "tailwindcss": "^3.4.0",
     "postcss": "^8.4.32",
-    "autoprefixer": "^10.4.16"
+    "autoprefixer": "^10.4.16",
+    "react-hot-toast": "^2.4.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
